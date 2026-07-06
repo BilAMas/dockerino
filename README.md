@@ -2,9 +2,9 @@
 
 ## Files
 
-Dockerimage - The Docker image
-dev.sh - Bash script to spin up Docker container and mount it to the current working directory
-build.sh - Build the Docker image.
+- Dockerimage - The Docker image
+- dev.sh - Bash script to spin up Docker container and mount it to the current working directory
+- build.sh - Build the Docker image.
 
 ## See Also 
 
